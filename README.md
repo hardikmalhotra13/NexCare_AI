@@ -35,7 +35,7 @@ NexCare AI is a high-performance, multi-page Hospital Management System (HMS) bu
 
 ## 📂 Project Structure
 
-- `Home.py`: Landing page and navigation portal.
+- `app.py`: Landing page and navigation portal.
 - `pages/`: Individual dashboards (Admin, Patient, Doctor).
 - `components/`: Modular UI elements (charts, alerts, crisis mode).
 - `ai/`: Risk assessment engine logic.
